@@ -101,7 +101,7 @@
 	
   "item.neapolitan.adzuki_beans": "Grãos de adzuki",
   "item.neapolitan.roasted_adzuki_beans": "Grãos de adzuki torrados",
-  "item.neapolitan.adzuki_bun": "Pão-doce de adzuki",
+  "item.neapolitan.adzuki_bun": "Pão doce de adzuki",
   "item.neapolitan.adzuki_stew": "Ensopado de adzuki",
   "item.neapolitan.adzuki_ice_cream": "Sorvete de adzuki",
   "item.neapolitan.adzuki_milkshake": "Milkshake de adzuki",
@@ -133,13 +133,13 @@
   "effect.neapolitan.vanilla_scent": "Aroma de baunilha",
   "effect.neapolitan.agility": "Agilidade",
   "effect.neapolitan.slipping": "Escorregadio",
-  "effect.neapolitan.berserking": "Furia",
+  "effect.neapolitan.berserking": "Fúria",
   "effect.neapolitan.harmony": "Harmonia",
 	
   "advancements.husbandry.creeper_heal.title": "Bomba do amor",
   "advancements.husbandry.creeper_heal.description": "Seja curado por um creeper que explodiu dentro de um arbusto de morangos",
 	
-  "advancements.husbandry.vanilla_poison.title": "Venenono, porém saboroso",
+  "advancements.husbandry.vanilla_poison.title": "Venenoso, porém saboroso",
   "advancements.husbandry.vanilla_poison.description": "Quebre uma planta de baunilha com uma tesoura, assim prevenindo que uma aura nociva seja liberada",
 	
   "advancements.husbandry.place_all_chocolate_blocks.title": "Chocólatra construtor",
@@ -159,7 +159,7 @@
   "subtitles.neapolitan.entity.chimpanzee.eat": "Chimpanzé comendo",
   "subtitles.neapolitan.entity.chimpanzee.howl": "Cimpanzé uiva",
   "subtitles.neapolitan.entity.chimpanzee.hurt": "Chimpanzé ferido",
-  "subtitles.neapolitan.entity.chimpanzee.ambient": "Chimpanzé fazendo ooo-ooo aaa-aaa",
+  "subtitles.neapolitan.entity.chimpanzee.ambient": "Chimpanzé fazendo uuu-uuu aaa-aaa",
   "subtitles.neapolitan.entity.chimpanzee.step": "Chimpanzé pavoneia",
   "subtitles.neapolitan.entity.chimpanzee.swing": "Chimpanzé balançando",
 	
